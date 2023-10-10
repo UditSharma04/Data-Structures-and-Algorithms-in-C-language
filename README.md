@@ -1,6 +1,5 @@
 # Data Structures
-**This repository contains basic concepts of DSA that I have learned but the whole codes will be writtend in C Language<h2/>
-Topics I have learnet till now**
+**This repository contains basic concepts of DSA that I have learned but the whole codes will be writtend in C Language**
 
 ## Structures I have learned in theory
 
