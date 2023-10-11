@@ -6,6 +6,7 @@
 - Arrays and ArrayLists
 - Linked Lists
 - Stacks
+- Queues
 - Trees
 
 ## Structures I have implemented in code
