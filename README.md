@@ -13,4 +13,4 @@
 ## Structures I have implemented in code
 
 - Linked List (Traversal and Insertion)
-- Stacks
+- Stack
