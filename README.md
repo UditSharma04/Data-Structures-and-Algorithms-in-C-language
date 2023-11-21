@@ -4,15 +4,13 @@
 ## Structures I have learned in theory
 
 - Arrays and ArrayLists
-- Linked Lists
-- Stack
-- Stack implementation using Linked List
-- Queue
-- Circular Queue
+- Linked Lists (Basic , Circular , Doubely Linked List)
+- Stack (Basic , using Linked List)
+- Queue (Basic , Circular , using Linked List)
 - Trees
 
 ## Structures I have implemented in code
 
 - Linked List (Traversal and Insertion)
-- Stack
-- Queue
+- Stack (Basic)
+- Queue (Basic)

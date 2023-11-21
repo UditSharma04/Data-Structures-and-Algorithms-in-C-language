@@ -11,7 +11,7 @@ void linkedListTraversal(struct Node * ptr){
     while(ptr!=0){
         printf("Element: %d\n",ptr->data);
         ptr = ptr->next; 
-    }
+    } 
 }
 
 struct Node *insertAtFirst(struct Node * head,int data){
@@ -69,27 +69,33 @@ int main(){
     fourth = (struct Node *) malloc(sizeof(struct Node));
 
     // Lets make a sample linked list of four nodes
-    head->data = 7;
+    head->data = 4;
     head->next = second;
 
-    second->data = 11;
+    second->data = 3;
     second->next = third;
 
-    third->data = 41;
+    third->data = 8;
     third->next = fourth;
 
-    fourth->data = 66;
+    fourth->data = 1;
     fourth->next = NULL;
 
-    printf("Linked list before insertion\n");
-    linkedListTraversal(head);
+    // printf("Linked list before insertion\n");
+    // linkedListTraversal(head);
     
-    printf("Linked list after insertion\n");
     // head = insertAtFirst(head , 56);
     // head = insertAtIndex(head , 56,1);
     // head = insertAtEnd(head , 56);
-    // head = insertAfterNode(head , third,56);
+    // // head = insertAfterNode(head , third,56);
+    // printf("Linked list after insertion\n");
+    // linkedListTraversal(head);
+
+    printf("Linked list before deletion\n");
     linkedListTraversal(head);
 
+
+    printf("Linked list after deletion\n");
+    linkedListTraversal(head);
     return 0;
 }
