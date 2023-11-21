@@ -5,10 +5,12 @@
 
 - Arrays and ArrayLists
 - Linked Lists
-- Stacks
-- Queues
+- Stack
+- Stack implementation using Linked List
+- Queue
 - Trees
 
 ## Structures I have implemented in code
 
 - Linked List (Traversal and Insertion)
+- Stacks
