@@ -1,2 +1,1 @@
-
-    // Pop
+printf("Dequeuing element %d\n", dequeue(&q));

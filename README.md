@@ -8,9 +8,11 @@
 - Stack
 - Stack implementation using Linked List
 - Queue
+- Circular Queue
 - Trees
 
 ## Structures I have implemented in code
 
 - Linked List (Traversal and Insertion)
 - Stack
+- Queue
