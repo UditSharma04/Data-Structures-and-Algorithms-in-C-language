@@ -14,3 +14,17 @@
 - Linked List (Traversal and Insertion)
 - Stack (Basic)
 - Queue (Basic)
+
+##
+# Algorithms
+
+## Algorithms I have learned in theory
+
+- Bubble Sort (Basic and Adaptive)
+- Insertions Sort
+- Selection Sort
+
+## Algorithms I have implemented in code
+
+- Bubble Sort (Basic and Adaptive)
+- Insertion Sort
